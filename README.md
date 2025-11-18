@@ -489,6 +489,37 @@ MIT License
 
 Ethical Restrictions Apply
 
+---
+
+📚 SOVOS — Full Article Series (21 Articles)
+📎 Reference Magazine (Japanese)
+
+日本語の記事シリーズを読みたい方向けに、まとめマガジンを用意しています。
+
+note.com Magazine (21 Articles):
+https://note.com/cheeky_daisy8872/m/mc1eccfeb4f8e
+
+🇬🇧 English Guidance（International Readers）
+
+This is a collection of 21 Japanese articles explaining the full SOVOS methodology, design philosophy, and kernel evolution (4.2a → 4.5a → 5.x planning).
+If you do not read Japanese, please use Google Translate or your browser’s built-in translation function:
+
+Chrome: Right-click → “Translate to English”
+
+Safari / Edge / Firefox: Built-in translate → set target language
+
+All articles are intentionally written in clear, structured Japanese, making them highly translation-friendly.
+
+🇯🇵 日本語ガイド（日本語利用者向け）
+
+こちらは SOVOS開発記事（全21本） を一つにまとめたマガジンです。
+開発背景、構造、SOV 4.2a / 4.5a / カスタムモデルの説明など、体系的に整理してあります。
+
+マガジンURL:
+https://note.com/cheeky_daisy8872/m/mc1eccfeb4f8e
+
+翻訳が必要な場合は、ブラウザの翻訳機能または Google 翻訳をご利用ください。
+
 --
 
 # 🌟 最後に
